@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JBohde)](https://github.com/JBohde/github-readme-stats)
+
 <!--
 **JBohde/JBohde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
