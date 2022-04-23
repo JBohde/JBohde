@@ -15,6 +15,21 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<h1 align="center">GitHub Stats</h1>
+<section align="center">
+  <a href="https://github.com/JBohde/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JBohde&line_height=27&show_icons=true&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/JBohde">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBohde&langs_count=3&theme=gruvbox" />
+  </a>
+  </section>
+  <br />
+  <section align="center">
+    <a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JBohde" />
+  </a>
+    </section>
 
 <!--
 **JBohde/JBohde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
